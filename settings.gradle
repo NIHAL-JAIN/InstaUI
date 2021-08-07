@@ -1,0 +1,2 @@
+rootProject.name = "IntsgramUI"
+include ':app'
